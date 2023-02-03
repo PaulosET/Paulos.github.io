@@ -1,0 +1,43 @@
+body{
+font-family: 'Noto Serif', serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    background: url(./images/cover.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.height{
+    height: 1000px;
+    min-height: 100vh;
+}
+.title-underline{
+   width: 100px;
+   height: 6px;
+background-color: rgb(68, 34, 206);
+  margin: 0 auto;
+}
+.height-80{
+    min-height:80vh;
+}
+.about-picture{
+
+background: url(./images/basketball.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.title-underline-team {
+    width: 100px;
+    height: 5px;
+    background-color: rgb(68, 34, 206);
+    margin: 0 auto;
+}
+#filler,#progress{
+    background: url(./images/cafeteria.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
